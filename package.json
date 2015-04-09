@@ -1,6 +1,6 @@
 {
   "name": "xenontheme-meanio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "xenontheme-meanio css for mean.io",
   "author": {
     "name": "sistcoop"
@@ -20,7 +20,7 @@
     "mean-health": "~0.1.2"
   },
   "license": "MIT",
-  "_id": "xenontheme-meanio@0.0.1",
+  "_id": "xenontheme-meanio@0.0.2",
   "_shasum": "b4ad3bebf83abb51575cf15aaf238251d50e765b",
   "_from": "https://github.com/SistCoop/xenontheme-meanio/tree/master",
   "_resolved": "https://github.com/SistCoop/xenontheme-meanio/tree/master",
