@@ -1,9 +1,9 @@
 {
   "name": "xenontheme-meanio",
   "version": "0.0.1",
-  "description": "Some description of xenontheme-meanio",
+  "description": "xenontheme-meanio bootstrap",
   "author": {
-    "name": "mean scaffold"
+    "name": "sistcoop"
   },
   "mean": "0.4.3",
   "repository": {
@@ -14,11 +14,7 @@
     "node": "0.10.x",
     "npm": "1.4.x"
   },
-  "dependencies": {
-    "gridfs-stream": "^0.5.1",
-    "request": "^2.36.0",
-    "mean-health": "~0.1.2"
-  },
+  "dependencies": {},
   "license": "MIT",
   "_id": "xenontheme-meanio@0.0.1",
   "_shasum": "b4ad3bebf83abb51575cf15aaf238251d50e765b",
