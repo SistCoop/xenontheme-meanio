@@ -37,7 +37,7 @@ $ cd packages/contrib/xenontheme
 ```
 
 ```sh
-$ cd bower update
+$ bower update
 ```
 
 Se creara un paquete en mean.io. Este software está probado para ser publicado en mean.io 0.4.4
