@@ -87,4 +87,7 @@ modules/views/
 
 lib/
 ./idea
+!node_modules/gridfs-stream/
+!node_modules/mean-health/
+!node_modules/request/
 
