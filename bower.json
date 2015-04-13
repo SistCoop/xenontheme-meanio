@@ -1,7 +1,7 @@
 {
-  "name": "xenontheme-meanio",
-  "version": "0.0.2",
+  "name": "xenontheme",
+  "version": "0.0.3",
   "dependencies": {
-     "bootstrap-xenon": "https://github.com/SistCoop/bootstrap-xenon.git#1.0.3"
+    "bootstrap-xenon": "https://github.com/sistcoop/bootstrap-xenon.git#1.0.3"
   }
 }
