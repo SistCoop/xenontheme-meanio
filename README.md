@@ -30,10 +30,14 @@ Para instalarlo debes de ubicarte en la raiz del proyecto mean.io y despues ejec
 $ git clone --branch master https://github.com/sistcoop-meaniofiles/xenontheme.git packages/contrib/xenontheme
 ```
 
-o
+despues se debe actualizar las dependencias bower:
 
 ```sh
-$ git clone --branch master https://github.com/sistcoop-meaniofiles/xenontheme.git packages/custom/xenontheme
+$ cd packages/contrib/xenontheme
+```
+
+```sh
+$ cd bower update
 ```
 
 Se creara un paquete en mean.io. Este software está probado para ser publicado en mean.io 0.4.4
